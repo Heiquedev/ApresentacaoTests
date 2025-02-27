@@ -1,0 +1,21 @@
+Objetivo de fazer testes foi para testar se as funções das Classes "Produto",
+ "Carrinho" e "calculadoraFatura" estão funcionais para uso.
+
+Testes da classe"Produto":
+
+CT001:✅ Aprovado | Retorna o nome do produto
+CT002:✅ Aprovado | Seta o nome do produto
+CT003:✅ Aprovado | Retorna o preço do produto
+CT004:✅ Aprovado | Seta o preço do produto
+
+
+Testes da classe"Carrinho":
+
+CT001:✅ Aprovado | Retorna os itens dentro do carrinho
+CT002:✅ Aprovado | Adiciona um produto ao carrinho
+CT003:✅ Aprovado | Retorna o custo de todos os produtos do carrinho somados
+
+
+Testes da classe"calculadoraFatura":
+
+CT001:✅ Aprovado | Retorna o desconto da compra
